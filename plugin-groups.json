@@ -43,6 +43,13 @@
       "skills": [
         "office-web-ui-system"
       ]
+    },
+    {
+      "name": "communication-skills",
+      "description": "Skills for configuring how AI agents communicate with users.",
+      "skills": [
+        "communication-protocol-setup"
+      ]
     }
   ]
 }
